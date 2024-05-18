@@ -3,6 +3,8 @@
 
 This demo showcases the training of a neural network using the AIfES Library (Artificial Intelligence for Embedded Systems) on an ESP32 board. The network is trained to learn the XOR (Exclusive OR) gate function.
 
+This code is based on an example from Fraunhofer-IMS/AIfES_for_Arduino, refactored for readability by using Printf, simplifying language, and clear comments, while maintaining a concise line count.
+
 **Overview**
 ------------
 
